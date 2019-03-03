@@ -1,0 +1,11 @@
+URL,TFIDF,checkpagerank,AlexaPageRank
+505_www.azcentral.com.txt,1,1,2
+435_www.northjersey.com.txt,2,4,4
+1006_www.gosanangelo.com.txt,3,8,8
+558_www.denverpost.com.txt,4,2,1
+256_www.indystar.com.txt,5,3,3
+509_www.lansingstatejournal.com.txt,6,6,6
+249_thetartan.org.txt,7,9,9
+895_leaderpost.com.txt,8,7,7
+186_www.thevwindependent.com.txt,9,10,10
+371_carver.wickedlocal.com.txt,10,5,5

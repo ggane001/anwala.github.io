@@ -1,0 +1,12 @@
+Kendall correlation coefficient: 0.200
+Samples are uncorrelated (fail to reject H0) p=0.421
+
+
+TFID vs Alexa 
+Kendall correlation coefficient : 0.156
+Samples are uncorrelated (fail to reject H0) p=0.531
+
+
+CheckPageRank vs Alexa
+Kendall correlation coefficient: 0.867
+Samples are correlated (reject H0) p=0.000
