@@ -1,0 +1,16 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+['News Worldwide', 'Mathieu Deflem', 'From Arse To Elbow', 'Technology For You', 'Law & Society Review', 'Python Software Foundation News', 'Understanding Society', 'Northeast Alabama Technology Fair', 'Window on Eurasia -- New Series', 'Wellsville Regional News (dot) com', 'CONVERSABLE ECONOMIST', 'Universal Trek', 'BioRefineries Blog', 'life, work, pleasure...', "lcamtuf's blog", 'Evangelical Textual Criticism', 'Cultural Reader', 'globalinequality', 'Lite Strabo']
+==================================================================
+['A Tryst with Technology - DigitalAsian', 'Hf Official Technology', 'Medieval', 'Canadain-ITS', 'eLearning Technology', 'foradian', 'Free Download PDF IT Ebooks']
+==================================================================
+['F-Measure', 'Web Science and Digital Libraries Research Group', 'Educational Technology and Mobile Learning', 'Smiilee.com', 'Free Technology for Teachers', 'Technology Teaching Resources with Brittany Washburn', 'Tahoe Lake Technology', 'The Next Tech Thing', 'Cassie Dahl: Teaching & Technology', 'Sons of Technology', 'Wonderful World of Technology', "Nik's Learning Technology Blog", 'Technology Tidbits: Thoughts of a Cyber Hero', 'Technology Kidz', 'Daniel Scott', 'Assistive Technology Blog', 'Centriq Training', 'Technology is Loose in the Library                             & Around the School!!', 'Mobile Opportunity', 'COURT TECHNOLOGY and TRIAL PRESENTATION', 'Collegium Charter School Technology Blog', 'Interactive Multimedia Technology', 'Advancer Technologies, LLC', 'Educational Technology Guy', 'CANCER RESEARCH UK TECHNOLOGY TEAM', 'Technology in (Medical) Education', 'Technology Almanac', 'Resident Theologian', 'John Wetten Elementary Technology', "Where It's AT: Mrs. DiChiara's Technology Blog", 'Technology in Education:  Notes from the Closet', 'Android Basement', "marxy's musing on technology", 'The Library Voice', 'ESU Information Technology', 'Flipping with Kirch', 'Paul Buchheit', "A Principal's Reflections", 'Philosophical Disquisitions', 'The Ad Contrarian', 'By Ken Levine', 'Glamour and Discourse', 'Beyond the Shallows', 'YouTube Blog']
+==================================================================
+['Business News Online', 'Court Technology Bulletin', 'Corner School Technology', 'Tech Age Kids | Technology for Children', 'Public Understanding of Science Blog', 'Technology Directory', 'Top Games', 'The ANSI Blog', 'Preschool Powol Packets']
+==================================================================
+['Business Technology Roundtable', 'LIBRARIANSHIP STUDIES & INFORMATION TECHNOLOGY', 'Pinar Technology English Corner', 'Tennis & Technology', 'Military and Commercial Technology', 'Princeton Technology Advisors', 'Technology For Human', 'Education & Skills Today', 'Green County Area Technology Center', 'DC Public Affairs + Communications Jobs', 'Research Tools', 'Electronic Lien and Title', 'PAEPARD', 'Flewup Technologies', 'The IPKat', 'Community Architect', 'Iqra physics class', 'Moneyness', 'Market Design', 'New Technology']
+==================================================================

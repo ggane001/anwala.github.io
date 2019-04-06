@@ -1,0 +1,15 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+['UNCG University Libraries Announcements', 'The Archaeology News Network', 'education 4 all', 'Distance Learnings', 'Online Certificate Programs', 'Online Undergraduate', 'Old Dominion Equestrian Team', 'Old Dominion University', 'University Online Degreess', 'The Ombuds Blog', 'News and Buzz for Education Credit Unions', 'Biology@ODU']
+==================================================================
+['F-Measure', 'Gapplegate Classical-Modern Music Review', 'Gapplegate Music Review', 'KMMReviews', 'WLUR 91.5 FM Music Review', 'New Age Music Reviews', "Zach's Music Review", 'janglepophub', 'Raised by Gypsies ::', "Bob Mersereau's Top 100 Canadian Blog", 'Music Review Database', 'CoolDad Music', 'The Duff Guide to Ska', 'REMY', 'Jack the Cad', 'Critic of Music', 'Farce the Music', 'Music and More', "It's Psychedelic Baby Magazine"]
+==================================================================
+["Scott's Music Reviews", 'I was just thinking...', 'Stark Music Reviews', 'Wind and Wire', 'Get Perspective', 'The Iconic Blonde', 'Web Science and Digital Libraries Research Group', 'Free eTraining', 'GROUP 11', 'Mountain West Digital Library News', 'AWOL - The Ancient World Online', 'Simple Digital Library', 'MUHAS LIBRARY', 'Old Dominion University Musicians', 'English Language Center at Old Dominion University', "Toddlin' Around Tidewater", 'College Explorations']
+==================================================================
+['The Corvallis Review', 'Chicago Schlager Music Review', 'A Catholic Life', 'Carstairs Considers....', 'Just Commonly Blog', 'A TRIP DOWN MEMORY LANE', 'Shark Attack Online', 'Tony Adamo  NU JAZZ VOCAL TRIP BOP SPOKEN WORD', 'NUMBER 9: Theatre, Music and Film', 'An Amateur at work', 'The View From the Phlipside', 'Top Games', 'Technology Directory', 'Soundtrack-Universe: film-music reviews', 'dunkdaft', 'Blogtrotter', 'movie review', 'Black Bird Press News & Review', 'Conversations Magazine', "Genealogy's Star", 'Biblioteksdebat', 'The IPKat', 'Northwest History', 'Vivid Expressions', 'TCC', 'ODU Philosophy Club', 'Trip to Beach', 'Village Info', 'Michael-In-Norfolk - Coming Out in Mid-Life']
+==================================================================
+['RUNNING WITH MUSIC', 'The Truth Inside The Lie', 'Geek Like Me, Too', 'Homeschooling 3', 'My Articles', "A Library Writer's Blog", 'Digitization 101', "Rose Holley's Blog - views and news on digital libraries and archives", 'Digital Preservation Matters', 'Library Soup', 'Colorado State Publications Library', 'Academic Writing Librarian', 'The Ginger (Law) Librarian', 'SCECSAL Forum', 'Backreaction']
+==================================================================

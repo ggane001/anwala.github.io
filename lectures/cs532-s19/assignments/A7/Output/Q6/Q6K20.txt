@@ -1,0 +1,41 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+["A Library Writer's Blog", 'Academic Writing Librarian', 'Trip to Beach', 'Biology@ODU']
+==================================================================
+['Online Certificate Programs']
+==================================================================
+['Online Undergraduate']
+==================================================================
+['An Amateur at work', 'Soundtrack-Universe: film-music reviews', 'movie review']
+==================================================================
+['Tony Adamo  NU JAZZ VOCAL TRIP BOP SPOKEN WORD', 'Technology Directory', 'Web Science and Digital Libraries Research Group']
+==================================================================
+['My Articles', 'Digitization 101', "Rose Holley's Blog - views and news on digital libraries and archives", 'Digital Preservation Matters', 'Simple Digital Library']
+==================================================================
+['Chicago Schlager Music Review', 'Just Commonly Blog', 'CoolDad Music', 'The Duff Guide to Ska', 'NUMBER 9: Theatre, Music and Film', "It's Psychedelic Baby Magazine", 'Black Bird Press News & Review', 'Northwest History', 'Village Info']
+==================================================================
+['Top Games', 'The Archaeology News Network', 'News and Buzz for Education Credit Unions']
+==================================================================
+['Biblioteksdebat']
+==================================================================
+['Carstairs Considers....', 'A TRIP DOWN MEMORY LANE', 'The View From the Phlipside', 'dunkdaft', 'RUNNING WITH MUSIC', 'The Truth Inside The Lie', 'Geek Like Me, Too', 'Homeschooling 3', 'Conversations Magazine', 'Backreaction', 'Vivid Expressions']
+==================================================================
+['Blogtrotter']
+==================================================================
+['Distance Learnings']
+==================================================================
+['A Catholic Life', 'Mountain West Digital Library News', 'Library Soup', 'UNCG University Libraries Announcements', 'SCECSAL Forum', 'TCC', 'ODU Philosophy Club']
+==================================================================
+['F-Measure', 'Gapplegate Classical-Modern Music Review', 'Gapplegate Music Review', 'KMMReviews', 'WLUR 91.5 FM Music Review', 'New Age Music Reviews', "Zach's Music Review", 'janglepophub', 'Raised by Gypsies ::', "Bob Mersereau's Top 100 Canadian Blog", 'Music Review Database', 'Shark Attack Online', 'REMY', 'Jack the Cad', 'Critic of Music', 'Farce the Music', 'Music and More']
+==================================================================
+["Scott's Music Reviews", 'I was just thinking...', 'Stark Music Reviews', 'Wind and Wire', 'Get Perspective', 'The Iconic Blonde', 'Free eTraining', 'GROUP 11', 'MUHAS LIBRARY', 'Old Dominion University Musicians', 'English Language Center at Old Dominion University', "Toddlin' Around Tidewater", 'College Explorations']
+==================================================================
+["Genealogy's Star", 'Colorado State Publications Library', 'The Ginger (Law) Librarian', 'The IPKat', 'Michael-In-Norfolk - Coming Out in Mid-Life']
+==================================================================
+['AWOL - The Ancient World Online']
+==================================================================
+['The Corvallis Review', 'education 4 all', 'Old Dominion Equestrian Team', 'Old Dominion University', 'University Online Degreess', 'The Ombuds Blog']
+==================================================================

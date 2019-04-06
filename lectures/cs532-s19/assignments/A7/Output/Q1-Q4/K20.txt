@@ -1,0 +1,46 @@
+Iteration 0
+Iteration 1
+Iteration 2
+Iteration 3
+Iteration 4
+Iteration 5
+Iteration 6
+Iteration 7
+['A Tryst with Technology - DigitalAsian', 'Hf Official Technology', 'Medieval', 'BioRefineries Blog']
+==================================================================
+['Educational Technology and Mobile Learning', 'Free Technology for Teachers', 'Technology Teaching Resources with Brittany Washburn', 'Tahoe Lake Technology', 'The Next Tech Thing', 'Cassie Dahl: Teaching & Technology', 'Sons of Technology', 'Wonderful World of Technology', "Nik's Learning Technology Blog", 'Technology Tidbits: Thoughts of a Cyber Hero', 'Technology Kidz', 'Corner School Technology', 'Assistive Technology Blog', 'Technology is Loose in the Library                             & Around the School!!', 'Collegium Charter School Technology Blog', 'Interactive Multimedia Technology', 'Educational Technology Guy', 'Technology in (Medical) Education', 'Northeast Alabama Technology Fair', 'John Wetten Elementary Technology', 'Green County Area Technology Center', "Where It's AT: Mrs. DiChiara's Technology Blog", 'Technology in Education:  Notes from the Closet', 'The Library Voice', 'Flipping with Kirch', "A Principal's Reflections"]
+==================================================================
+['Canadain-ITS', 'foradian']
+==================================================================
+['News Worldwide', 'Mathieu Deflem', 'From Arse To Elbow', 'Law & Society Review', 'Centriq Training', 'Understanding Society', 'Window on Eurasia -- New Series', 'DC Public Affairs + Communications Jobs', 'Electronic Lien and Title', 'Wellsville Regional News (dot) com', 'The IPKat', 'Cultural Reader', 'globalinequality', 'Lite Strabo']
+==================================================================
+['Web Science and Digital Libraries Research Group', 'Business News Online', 'Business Technology Roundtable', 'Military and Commercial Technology', 'Princeton Technology Advisors', 'Research Tools', 'PAEPARD', 'Flewup Technologies', 'life, work, pleasure...', 'YouTube Blog']
+==================================================================
+['Technology Directory', 'Top Games']
+==================================================================
+['Python Software Foundation News']
+==================================================================
+[]
+==================================================================
+['Glamour and Discourse']
+==================================================================
+['Tennis & Technology', 'COURT TECHNOLOGY and TRIAL PRESENTATION']
+==================================================================
+['Court Technology Bulletin', 'Advancer Technologies, LLC', 'Free Download PDF IT Ebooks']
+==================================================================
+['Education & Skills Today', 'The ANSI Blog', 'Universal Trek', 'Community Architect']
+==================================================================
+[]
+==================================================================
+[]
+==================================================================
+['Pinar Technology English Corner', 'Technology For You']
+==================================================================
+['eLearning Technology']
+==================================================================
+['LIBRARIANSHIP STUDIES & INFORMATION TECHNOLOGY', 'Tech Age Kids | Technology for Children', 'Public Understanding of Science Blog', 'Preschool Powol Packets']
+==================================================================
+[]
+==================================================================
+['F-Measure', 'Smiilee.com', 'Daniel Scott', 'Mobile Opportunity', 'Technology For Human', 'CANCER RESEARCH UK TECHNOLOGY TEAM', 'Technology Almanac', 'Resident Theologian', 'Android Basement', "marxy's musing on technology", 'ESU Information Technology', 'Paul Buchheit', 'Philosophical Disquisitions', 'CONVERSABLE ECONOMIST', 'The Ad Contrarian', 'By Ken Levine', 'Iqra physics class', 'Moneyness', 'Beyond the Shallows', 'Market Design', "lcamtuf's blog", 'Evangelical Textual Criticism', 'New Technology']
+==================================================================
